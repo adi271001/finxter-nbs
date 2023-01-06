@@ -2,12 +2,9 @@
 #  Strategic Investment
 This code snippet plots the value of a portfolio for different monthly contributions over a period of 21 years.
 
-* You specify the
+*You specify the*
 
-**initial investment value,
-**investment return,
-**number of years, and
-**monthly contributions.
+* initial investment value,investment return,number of years, and monthly contributions.
 
 * Then, you create a list to store the portfolio values over time for each monthly contribution.
 
