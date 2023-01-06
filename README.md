@@ -1,2 +1,2 @@
 # finxter-nbs
-* 1. Strategic Investment
+*  Strategic Investment
